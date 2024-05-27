@@ -1,4 +1,5 @@
-# Arsiv-Yonetim-Sistemi
+# Arşiv Yönetim Sistemi
+<h2>Sistemin Çalışması</h2>
 https://youtu.be/BICMjWIuh3M
 <h2>Projenin Tanıtımı ve Amacı</h2>
 <p>Arşiv Yönetim Sistemi adlı proje NYP23-1 grubu olarak Beyza Girgin, Merve Subaşı ve Şeyma Seda Yükseloğlu tarafından oluşturulmuştur.</p>
